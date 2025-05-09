@@ -14,3 +14,5 @@ pip install openpyxl requests
 # 第95-96行
 APP_ID = '您的百度APP_ID'
 APP_KEY = '您的百度APP_KEY'
+获取id和key:
+https://fanyi-api.baidu.com/api/trans/product/desktop
